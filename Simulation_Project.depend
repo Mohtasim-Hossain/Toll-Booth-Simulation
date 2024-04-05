@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1671614366 source:d:\simulation\simulation_project\heap.cpp
+	<bits/stdc++.h>
+
+1671614367 source:d:\simulation\simulation_project\job.cpp
+	"Job.hpp"
+
+1671614876 d:\simulation\simulation_project\job.hpp
+
+1671614367 source:d:\simulation\simulation_project\randomnumber.cpp
+	"RandomNumber.hpp"
+
+1673807879 d:\simulation\simulation_project\randomnumber.hpp
+	<bits/stdc++.h>
+
+1671614366 source:d:\simulation\simulation_project\event.cpp
+	"Event.hpp"
+	"Simulator.hpp"
+	"Server.hpp"
+
+1671614822 d:\simulation\simulation_project\event.hpp
+
+1673855650 d:\simulation\simulation_project\simulator.hpp
+	"Heap.hpp"
+	"Event.hpp"
+	"Server.hpp"
+	"RandomNumber.hpp"
+
+1671615043 d:\simulation\simulation_project\heap.hpp
+	"Heap.cpp"
+
+1671614366 d:\simulation\simulation_project\heap.cpp
+	<bits/stdc++.h>
+
+1673807020 d:\simulation\simulation_project\server.hpp
+	<bits/stdc++.h>
+	"Job.hpp"
+	"RandomNumber.hpp"
+
+1673855650 source:d:\simulation\simulation_project\main.cpp
+	<bits/stdc++.h>
+	"Simulator.hpp"
+	"Server.hpp"
+	"RandomNumber.hpp"
+
+1673842772 source:d:\simulation\simulation_project\server.cpp
+	"Server.hpp"
+	"Simulator.hpp"
+	<iostream>
+
+1673855675 source:d:\simulation\simulation_project\simulator.cpp
+	"Simulator.hpp"
+	<iostream>
+
